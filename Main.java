@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 import java.util.Stack;
 import java.util.*;
@@ -22,7 +23,6 @@ public class Main {
         }
         
         Arrays.sort(floorArraySort, Collections.reverseOrder());
-        System.out.println(Arrays.toString(floorArraySort));  
         int temp = 0;
         int counter = 0;
         int i;
