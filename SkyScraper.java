@@ -3,7 +3,7 @@ import java.util.Scanner;
 import java.util.Stack;
 import java.util.*;
 
-public class Main {
+public class SkyScraper {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
